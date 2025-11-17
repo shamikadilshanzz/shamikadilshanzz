@@ -62,7 +62,7 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<div align="center" width = "100%">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamikadilshanzz&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
