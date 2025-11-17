@@ -50,51 +50,39 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shamikadilshanzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamikadilshanzz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamikadilshanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shamikadilshanz&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamikadilshanz&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ## 🔥 Featured Projects
 
-### 🌟 [Project Name 1](link-to-repo)
-Brief description of what this project does and the technologies used.
-- 🛠️ Built with: React, Node.js, MongoDB
+### 🌟 [Zayra-Project](https://github.com/shamikadilshanzz/Zayra-Project)
+This is my first full-stack project 🦑🌟.
+- 🛠️ Built with: React, Node.js, TypeScript, MongoDB
 - ⚡ Features: Real-time updates, Authentication, Responsive design
-
-### 🌟 [Project Name 2](link-to-repo)
-Brief description of what this project does and the technologies used.
-- 🛠️ Built with: Next.js, Express, PostgreSQL
-- ⚡ Features: Server-side rendering, API integration, Modern UI
-
-### 🌟 [Project Name 3](link-to-repo)
-Brief description of what this project does and the technologies used.
-- 🛠️ Built with: Python, Django, MySQL
-- ⚡ Features: Admin dashboard, CRUD operations, Secure authentication
 
 ## 🤝 Connect with Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shamika-dilshan-193a4b268)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamikadilshan1562@gmail.com)
 
 </div>
 
