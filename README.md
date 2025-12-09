@@ -55,16 +55,6 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamikadilshanzz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamikadilshanzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamikadilshanzz&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center" width = "100%">
