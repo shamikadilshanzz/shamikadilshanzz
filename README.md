@@ -15,6 +15,11 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 - 🎯 Goal: Create impactful solutions that make a difference
 - ⚡ Fun fact: I debug with coffee ☕
 
+## 📄 My CV  
+<a href="./Shamika%20DIlshan.pdf" download>
+  <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge">
+</a>
+
 ## 🛠️ Tech Stack
 
 ### Languages
