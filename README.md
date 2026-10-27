@@ -1,75 +1,178 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Shamika Dilshan – Full Stack Developer, Graphic Designer, Video Editor"/>
+<!-- HERO SECTION -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=42&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&height=80&lines=Hi%2C+I'm+Shamika+Dilshan+%F0%9F%91%8B;Developer+%7C+Designer+%7C+Creator" alt="Animated Introduction" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1500&color=64D2FF&center=true&vCenter=true&width=650&height=40&lines=Full+Stack+Developer;Graphic+Designer;Video+Editor;Building+Digital+Experiences" alt="Animated Roles" />
 
 <br/>
 
-<a href="./Shamika%20DIlshan.pdf" download><img src="assets/btn-cv.svg" height="56" alt="Download CV"/></a>
-<a href="mailto:shamikadilshan1562@gmail.com"><img src="assets/btn-mail.svg" height="56" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/shamika-dilshan-193a4b268"><img src="assets/btn-linkedin.svg" height="56" alt="LinkedIn"/></a>
-<a href="https://github.com/shamikadilshanzz"><img src="assets/btn-github.svg" height="56" alt="GitHub"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shamikadilshanzz&label=Profile%20Views&color=0A84FF&style=flat-square&labelColor=1C1C1E" alt="Profile views"/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-30D158?style=flat-square&labelColor=1C1C1E" alt="Open to work"/>
-<img src="https://img.shields.io/badge/Sri%20Lanka-FF9F0A?style=flat-square&labelColor=1C1C1E" alt="Sri Lanka"/>
-
-<br/><br/><br/>
-
-<img src="assets/h-about.svg" height="52" alt="About Me"/>
-
-<br/><br/>
-
-I'm a passionate **Full Stack Developer** who loves building scalable web applications<br/>
-and exploring new technologies. I turn ideas into elegant, functional solutions<br/>
-with clean code and creative thinking.
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-0A84FF?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/CREATIVITY-Design%20%26%20Editing-64D2FF?style=flat-square&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/MINDSET-Always%20Learning-30D158?style=flat-square&labelColor=161B22" />
+</p>
 
 <br/>
 
-<img src="assets/about.svg" width="95%" alt="Now, Learning, Exploring, Goal"/>
-
-<br/><br/><br/>
-
-<img src="assets/h-stack.svg" height="52" alt="Tech Stack"/>
-
-<br/><br/>
-
-<img src="assets/skills.svg" width="95%" alt="Tech stack: Python, JavaScript, TypeScript, Java, HTML5, CSS3, React, Next.js, Tailwind, Node.js, Express, MongoDB, MySQL, Git, GitHub, VS Code, Postman"/>
-
-<br/><br/><br/>
-
-<img src="assets/h-stats.svg" height="52" alt="GitHub Stats"/>
-
-<br/><br/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shamikadilshanzz&theme=dark&hide_border=true&background=1C1C1E&ring=0A84FF&fire=FF9F0A&currStreakLabel=30D158&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8E8E93&border=2C2C2E&card_width=500" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamikadilshanzz&bg_color=1C1C1E&color=0A84FF&line=0A84FF&point=30D158&area=true&area_color=0A84FF&hide_border=true&title_color=FFFFFF&radius=16" width="95%" alt="Contribution graph"/>
-
-<br/><br/><br/>
-
-<img src="assets/h-projects.svg" height="52" alt="Featured Projects"/>
-
-<br/><br/>
-
-<a href="https://github.com/shamikadilshanzz/Zayra-Project">
-  <img src="assets/project.svg" width="90%" alt="Zayra-Project – React, Node.js, TypeScript, MongoDB"/>
+<a href="https://github.com/shamikadilshanzz">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
+<a href="https://www.linkedin.com/in/shamika-dilshan-193a4b268">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/><br/>
+<br/><br/>
 
-<img src="assets/h-connect.svg" height="52" alt="Connect with Me"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:64D2FF&height=2&section=header" width="100%" alt="Blue divider" />
+
+</div>
+
+## ✦ About Me
+
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamikadilshanzz&layout=compact&theme=transparent&hide_border=true&title_color=64D2FF&text_color=C9D1D9" alt="Most Used Languages" />
+
+I'm a developer and creative thinker passionate about turning ideas into elegant digital experiences.
+
+I enjoy building modern web applications, designing visual experiences, and exploring technologies that make products more useful, intuitive, and beautiful.
+
+- ✦ Developing modern, responsive web applications
+- ✦ Exploring new technologies and frameworks
+- ✦ Combining creativity with problem-solving
+- ✦ Continuously learning and improving my skills
+
+<br clear="right"/>
+
+##  Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" alt="Programming Languages" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend Technologies" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and Database Technologies" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development Tools" />
+</p>
+
+---
+
+## ◈ Featured Project
+
+<div align="center">
+
+<a href="https://github.com/shamikadilshanzz/Zayra-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shamikadilshanzz&repo=Zayra-Project&theme=transparent&hide_border=true&title_color=64D2FF&icon_color=0A84FF&text_color=C9D1D9" alt="Zayra Project" />
+</a>
+
+</div>
+
+### Zayra — Full-Stack Web Application
+
+A full-stack project focused on building a modern, interactive shopping experience.
+
+**Core technologies**
+
+`React` · `Node.js` · `TypeScript` · `MongoDB`
+
+**Explore the project**
+
+<a href="https://github.com/shamikadilshanzz/Zayra-Project">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+---
+
+## ⌘ GitHub Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamikadilshanzz&theme=transparent&hide_border=true&ring=64D2FF&fire=0A84FF&currStreakLabel=64D2FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
 
 <br/><br/>
 
-**💼 Open for Opportunities**<br/>
-<sub>I'm always interested in collaborating on innovative projects and exploring new opportunities.<br/>Feel free to reach out!</sub>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shamikadilshanzz&bg_color=00000000&color=64D2FF&line=0A84FF&point=FFFFFF&area=true&area_color=0A84FF&hide_border=true" alt="GitHub Contribution Graph" />
+
+</div>
+
+---
+
+## ◉ Beyond the Code
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◇ Development
+
+Building functional, responsive, and user-friendly applications with modern technologies.
+
+</td>
+<td width="50%" valign="top">
+
+### ◇ Visual Creativity
+
+Exploring graphic design, video editing, and digital visual storytelling.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◇ Continuous Learning
+
+Discovering new tools, techniques, and approaches to solving problems.
+
+</td>
+<td width="50%" valign="top">
+
+### ◇ Collaboration
+
+Working with others, sharing ideas, and creating meaningful digital products.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ↗ Let's Connect
+
+<div align="center">
+
+I'm always open to interesting projects, creative collaborations, and opportunities to learn and grow.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/shamika-dilshan-193a4b268">
+  <img src="https://img.shields.io/badge/LinkedIn-0A84FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:shamikadilshan1562@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+<a href="https://github.com/shamikadilshanzz">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" alt="Thanks for visiting"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:64D2FF&height=100&section=footer" width="100%" alt="Blue footer wave" />
+
+<sub>Designed with creativity. Built with code. Always evolving.</sub>
 
 </div>
